@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋  I'm jesseLiu, glad to see you !
+### Hi there 👋  I'm JesseLiu, glad to see you !
 
 # 💫About Me :
-📘 Homepage:  [qingtengzhi](https://www.qingtengzhi.com/)
-📖 Segmentfault:[segmentfault](https://segmentfault.com/blog/wenhaoliu)
-🔭 I’m currently working on my Skills.
-💬 Ask me about any tech-related stuff.
-📫 How to reach me: Email - xliudaxia#163.com.
+📘 Homepage:  [qingtengzhi](https://www.qingtengzhi.com/). 
+📖 Segmentfault:[segmentfault](https://segmentfault.com/blog/wenhaoliu). 
+🔭 I’m currently working on my Skills.  
+💬 Ask me about any tech-related stuff.  
+📫 How to reach me: Email - xliudaxia#163.com.  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/liuwenhao) 
